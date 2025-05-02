@@ -49,14 +49,14 @@ The Global Superstore Sales Analysis project aims to analyze sales performance, 
  10. Average delivery duration?
      
 ### Project Files
-- 📊 "global_superstore_2016.xlsx" (Excel File) - Contains all visualizations and analysis.
+- 📊 "global_superstore_2016.xlsx" (Excel File) - Contains all data for analysis.
 - 📝 Problem Statement (Word File) - Outlines the business questions and objectives.
 - 📸 Screenshots of Dashboard - Visual representation of insights extracted.
 
  ### How to Use
-1. Open the Excel file to explore the dashboard and insights.
-2. Review the Problem Statement PDF to understand the key objectives.
-3. Use the Screenshots to get a quick view of the results without opening the Excel file.
+1. Open the Excel file to explore the data.
+2. Review the Problem Statement Word document to understand the key objectives.
+3. Use the Screenshots to get a quick view of the results without opening the Power BI file.
 
 ### Dashboard Screenshot
 #### 🏷️ Sales Overview
