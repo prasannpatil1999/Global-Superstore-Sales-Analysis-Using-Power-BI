@@ -61,7 +61,12 @@ The Global Superstore Sales Analysis project aims to analyze sales performance, 
 ### Dashboard Screenshot
 #### 🏷️ Sales Overview
 
-![Global Superstore Sales Project Dashboard's Screenshot](https://github.com/user-attachments/assets/f10c2587-6893-4d2d-9daa-ec781fecf3d4)
+![Global Superstore Dashboard Screen shot png](https://github.com/user-attachments/assets/134831f8-a87a-40c5-8f50-4c67138619ea)
+
+
+![Global Superstore Map Screen shot](https://github.com/user-attachments/assets/384e0617-f8ad-4ea2-ae18-60433ac70798)
+
+![Global Superstore Product Screen shot](https://github.com/user-attachments/assets/b51bbc6c-40c6-429f-8f8b-0ee072d28d67)
 
 ### Insights & Findings
 - Total revenue is $12.67 Millions  and Total Profit is $1.47 Millions
